@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int IMG_TYPE_SIMPLE = 0;
     private static final int IMG_TYPE_COMPLEX = 1;
-    private static final int MAX_COUNT = 100;
+    private static final int MAX_COUNT = 1;
 
     private int mImgType;
     private ImageView mImgView;
